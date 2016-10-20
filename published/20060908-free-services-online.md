@@ -1,4 +1,4 @@
-![google-apps-for-free](https://cloud.githubusercontent.com/assets/20459187/19575059/6b650f1a-96d2-11e6-8c88-cc91da7a6b58.jpg)
+![google-apps](https://cloud.githubusercontent.com/assets/20459187/19576706/a4894d54-96d9-11e6-8bb2-aced94d49b0d.png)
 
 I am amazed at the amount of free services being provided on the internet! Will there be a day when I no longer have to maintain my own file share on a local hard drive? Will I be able to store everything out in the "cloud"?
 
