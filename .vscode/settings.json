@@ -1,0 +1,6 @@
+{
+    "editor.insertSpaces": false,
+    "editor.wrappingColumn": 0,
+    "editor.quickSuggestions": false,
+    "pandoc.htmlOptString": "-s -f markdown_github -t html5 --smart --css=css/style.css"
+}

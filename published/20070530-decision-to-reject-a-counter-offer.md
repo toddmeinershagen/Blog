@@ -1,3 +1,5 @@
+# Decision to Reject a Counter Offer
+
 So – I have decided to leave my company of 4 ½ years. It was a difficult decision, as any decision is to leave your company is. I really have enjoyed working with the various teams that I have been involved with. The main driving force was a greater need to connect with people locally. I currently work out of a remote office in Dallas, with the rest of my team being in Chicago, but I enjoy the atmosphere of working with a local team and being able to informally discuss issues and connect at a more personal level.
 
 The problem – I submit my resignation, and within a day, I receive a counter offer. I won’t go into the specifics of what they offered me, but suffice it to say that I began to wonder if it wouldn’t be worth my while to stay for another year or two.
