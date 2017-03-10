@@ -5,7 +5,8 @@
 	"layout": "post",
 	"title": "Live Unit Testing in Visual Studio 2017",
 	"date":  "2017-03-10 11:30:00 -0600",
-	"categories": ["development"]
+	"categories": ["software"],
+	"tags": ["testing", "visual studio"]
 }
 ```
 
